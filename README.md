@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+![Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Muneeb Raza</h1>
 <h3 align="center">Motivated engineer with a strong academic record and a passion for learning. Skilled in critical thinking, problem-solving, with experience through projects.</h3>
